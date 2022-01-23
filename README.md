@@ -5,6 +5,8 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
+* [heroku](#Deployed)
+* [Github](#GithubLink)
 * [Tests](#tests)
 * [Questions](#questions)
 
@@ -53,6 +55,13 @@ Contributions were from the following group members:
 [Chiara S](https://github.com/ChiaraNS)
 
 [Priti P](https://github.com/patelpr03)
+
+## Deployed Here 👇
+https://food-finder-tt.herokuapp.com/
+
+## Github Link
+https://github.com/patelpr03/team-cuisine-project-3
+https://github.com/ggamb/team-cuisine-project-3
 
 ## Tests
 We did not use tests for this project.
